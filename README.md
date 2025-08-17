@@ -15,7 +15,7 @@ The balance has changed compared to the last century, our approach to science ha
 ---
 
 ## Timeline  
-By 2027, I aim to reach a functional enough fluency in the theoretical and technical foundations of computational neuroscience to begin contributing to the global scientific community. Every step of this journey is being documented in the [`recipe-book`](./recipe-book) repository.
+By 2027, I aim to reach a functional enough fluency in the theoretical and technical foundations of computational neuroscience to begin contributing to the global scientific community. Every step of this journey is being documented in the [recipe-book](https://github.com/Djafar105/Recipe_Book) repository.
 
 ---
 
